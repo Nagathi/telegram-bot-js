@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "pergunta": "Qual o feiticeiro que tinha a alcunha de 'Feiticeiro mais forte da era moderna'?",
+        "alternativas": [
+            {"opcao": "A", "texto": "Ryomen Sukuna"},
+            {"opcao": "B", "texto": "Satoru Gojo", "correta": true},
+            {"opcao": "C", "texto": "Yuta Okkotsu"},
+            {"opcao": "D", "texto": "Ainz Ool Gown"}
+        ]
+    },
+    {
+        "id": 2,
+        "pergunta": "Qual o feiticeiro que tinha a alcunha de 'Rei Feiticeiro'?",
+        "alternativas": [
+            {"opcao": "A", "texto": "Ryomen Sukuna"},
+            {"opcao": "B", "texto": "Satoru Gojo"},
+            {"opcao": "C", "texto": "Yuta Okkotsu"},
+            {"opcao": "D", "texto": "Ainz Ool Gown", "correta": true}
+        ]
+    },
+    {
+        "id": 3,
+        "pergunta": "L é conhecido por ser um detetive renomado. De qual anime ele faz parte?",
+        "alternativas": [
+            {"opcao": "A", "texto": "Death Note", "correta": true},
+            {"opcao": "B", "texto": "Mob Psycho 100"},
+            {"opcao": "C", "texto": "Erased"},
+            {"opcao": "D", "texto": "Monster"}
+        ]
+    },
+    {
+        "id": 4,
+        "pergunta": "Quantos epsódios tem Death Note?",
+        "alternativas": [
+            {"opcao": "A", "texto": "35"},
+            {"opcao": "B", "texto": "36"},
+            {"opcao": "C", "texto": "37", "correta": true},
+            {"opcao": "D", "texto": "38"}
+        ]
+    }
+]
